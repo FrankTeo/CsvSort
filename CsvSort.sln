@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvSort", "CsvSort\CsvSort.csproj", "{FB75EC9B-56D7-4DBD-A59A-B098339C3D1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB75EC9B-56D7-4DBD-A59A-B098339C3D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB75EC9B-56D7-4DBD-A59A-B098339C3D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB75EC9B-56D7-4DBD-A59A-B098339C3D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB75EC9B-56D7-4DBD-A59A-B098339C3D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
